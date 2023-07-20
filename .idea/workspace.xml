@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbc7a81e-1769-49de-9d51-4640e6388531" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabAssignment02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/UsingTrimAndReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem02/UsingTrimAndReplaceRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/AreaTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem03/AreaTesterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/PerimeterTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem04/PerimeterTesterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem05/ConstructRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem06/AddTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem07/ReplaceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem08/HelloPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem09/ReverseTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem10/BrighterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem11/DIeSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem12/RandomPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem13/PointTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem14/DayTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem15/HalfSizePicture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_01/StringReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_01/StringReplaceRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2SppmmUUfn7gH7ztcyKOxUgE8dx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbc7a81e-1769-49de-9d51-4640e6388531" name="Changes" comment="" />
+      <created>1689853541045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689853541045</updated>
+    </task>
+    <servers />
+  </component>
+</project>
